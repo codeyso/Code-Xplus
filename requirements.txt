@@ -1,0 +1,17 @@
+requests
+pysocks
+prettytable
+click
+pycryptodome
+jinja2
+requests_toolbelt
+dacite
+ttkwidgets
+openpyxl
+mmh3
+numpy
+dnsPython
+tldextract
+tld
+openai
+chardet
